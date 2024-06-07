@@ -63,7 +63,7 @@ class _HomePageScrenState extends State<HomePageScren> {
           showDialog(
             context: context,
             builder: (context) => AlertDialog(
-              backgroundColor:  colorList[x %  colorList.length],
+             backgroundColor:  colorList[x %  colorList.length],
               title: Text(quoteModel!.quoteModelList[x].author!),
               content: Text(quoteModel!.quoteModelList[x].quote!),
               actions: [

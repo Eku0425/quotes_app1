@@ -28,14 +28,14 @@ class  QuoteModel
 }
 int index = 0;
 List colorList=[
+  Colors.blueGrey.shade50,
   Colors.blueGrey,
-  Colors.amberAccent,
+  Colors.black54,
   Colors.blue,
-  Colors.cyan,
-  Colors.red,
-  Colors.blueAccent,
-  Colors.blueGrey.shade200,
-  Colors.blue,
-  Colors.cyan,
+  Colors.lightBlue,
+  Colors.lightBlueAccent,
   Colors.blueGrey,
+  Colors.lightBlueAccent,
+  Colors.blueGrey,
+  Colors.lightBlueAccent,
 ];

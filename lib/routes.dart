@@ -7,7 +7,7 @@ class AppRoutes
 {
   static Map<String, Widget Function(BuildContext)> routes =
   {
-     '/':(context)=>ListViewScreen(),
-    '/home': (context) => HomePageScren(),
+    // '/':(context)=>ListViewScreen(),
+    '/': (context) => HomePageScren(),
   };
 }

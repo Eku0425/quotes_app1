@@ -36,7 +36,7 @@ class _ListViewScreenState extends State<ListViewScreen> {
               avatar: Icon(
                 en ? Icons.grid_view_outlined : Icons.list,
                 size: 30,
-                color: Colors.white,
+                color: Colors.black,
               ),
               onPressed: () {
                 setState(() {
