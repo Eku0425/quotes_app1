@@ -6,3 +6,7 @@
 <img src ="https://github.com/Eku0425/quotes_app1/assets/149374328/2749df56-d769-46c5-adc9-e8b1717a2330" height=25% width=25%>
 
 
+
+
+https://github.com/Eku0425/quotes_app1/assets/149374328/84dd55d5-7042-462e-b45b-5a604a6e234a
+
